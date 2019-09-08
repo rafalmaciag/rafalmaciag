@@ -1,7 +1,9 @@
 ---
 title: Project size/complexity/cost estimations & Agile hype (part 1)
 layout: post
-author: Rafal Maciag
+author: Rafał Maciag
+date: 2019-09-08
+tags: #Agile #EventStorming #EventModeling #DDD
 ---
 Project size estimations and then execution are the burden for every Product Owner and Project Manager. Business always wanted to know:
 
@@ -18,13 +20,14 @@ Practical agile principles should empower the **Business** to:
 
 However agile itself or/with microservices-hype seems not to fulfill entirely any above of demands. The main reason is that:
 
-They do not take under consideration combined costs estimation, requirements gathering with repeatable method of implementation (with right design) and delivery.
+They do not take under consideration combined *costs estimation, requirements gathering with repeatable method of implementation (with right design) and delivery*.
 
-It feels were we should know by now how to process information.
+It feels we should know by now how to process information.
 
 It's also said that you cannot precisely calculate project size/complexity and there isn't anything like a cost per funtional unit. We failed to define the unit - some attempts:
-    • Function Point Estimation
-    • Use Case Points [UML based]
+
+* Function Point Estimation
+* Use Case Points [UML based]
 
 Those ways of estimation does not tell you (your team) how you should implement requirements nor how to naturally make sure Business understands what was ordered. Because of that, you cannot be sure that **practical agile principles** will work at all.
 
