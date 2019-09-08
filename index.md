@@ -5,7 +5,7 @@ author: Rafał Maciag
 date: 2019-09-08
 tags: #Agile #EventStorming #EventModeling #DDD
 ---
-![evolution](img/evolution.jpg)
+![evolution](img/r-evolution.jpg)
 
 Project size estimations and then execution are the burden for every Product Owner and Project Manager. Business always wanted to know:
 
