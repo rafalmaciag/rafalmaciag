@@ -1,6 +1,7 @@
 ---
 title: Project size/complexity/cost estimations & Agile hype (part 1)
 layout: post
+author: Rafal Maciag
 ---
 Project size estimations and then execution are the burden for every Product Owner and Project Manager. Business always wanted to know:
 
