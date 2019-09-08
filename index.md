@@ -7,7 +7,7 @@ tags: #Agile #EventStorming #EventModeling #DDD
 ---
 ![evolution](img/r-evolution.jpg)
 
-Project size estimations and then execution are the burden for every Product Owner and Project Manager. Business always wanted to know:
+**Project size estimations** and then execution are the burden for every Product Owner and Project Manager. Business always wanted to know:
 
 * How much project will cost?
 * When the project will end?
@@ -28,17 +28,18 @@ It feels we should know by now how to process information.
 
 It's also said that you cannot precisely calculate project size/complexity and there isn't anything like a cost per funtional unit. We failed to define the unit - some attempts:
 
-* Function Point Estimation
-* Use Case Points [UML based]
+* [Function Point Estimation](https://en.wikipedia.org/wiki/Function_point)
+* [Use Case Points [UML based]](https://en.wikipedia.org/wiki/Use_Case_Points)
 
 Those ways of estimation does not tell you (your team) how you should implement requirements nor how to naturally make sure Business understands what was ordered. Because of that, you cannot be sure that **practical agile principles** will work at all.
 
-On the other side, in Agile, user-stories (features) should be estimated relatively with story-points, where the measuring base unit is defined by the team. Then you cannot easily compare velocities from different teams/companies/on the market. Further more, estimation is done by the Team itself; Bussiness **have to** ask for it.
+On the other side, in **Agile**, user-stories (features) should be estimated relatively with story-points, where the measuring base unit is defined by the team. Then you cannot easily compare velocities from different teams/companies/on the market. Further more, estimation is done by the Team itself; Bussiness **have to** ask for it.
 
 I dare to say, we've been wrong.
-The new era of information processing will relay on **understanding how people think and store/share their knowledge.**
 
-#EventStorming, #StoryTelling, #DDD and #EventModeling are next chapters for natural information systems' modeling evolution.
+## The new era of information processing will relay on **understanding how people think and store/share their knowledge.**
+
+[#EventStorming](https://www.eventstorming.com/), [#StoryTelling](https://domainstorytelling.org/), [#DDD](https://en.wikipedia.org/wiki/Domain-driven_design) and [#EventModeling](https://eventmodeling.org/posts/what-is-event-modeling/) are next chapters for natural information systems' modeling evolution.
 
 In next articles You will read about:
 
