@@ -7,7 +7,7 @@ tags: #Agile #EventStorming #EventModeling #DDD
 ---
 ![evolution](img/r-evolution.jpg)
 
-**Project size estimations** and then execution are the burden for every Product Owner and Project Manager. Business always wanted to know:
+**Project size estimations** and then execution, are the burden for every Product Owner and Project Manager. Business always wanted to know:
 
 * How much project will cost?
 * When the project will end?
@@ -15,8 +15,8 @@ tags: #Agile #EventStorming #EventModeling #DDD
 
 Practical agile principles should empower the **Business** to:
 
-* Check out new hypothesis and decide, based on data, which is better. [DataDriven / LeanStartup]
-* Decide on pipeline's/work's velocity - scale easily work aproximetly proportionally to size.
+* Check out new hypothesis and decide, based on data, which is better. [[DataDriven](https://www.springboard.com/blog/data-driven-design/) / [LeanStartup](http://theleanstartup.com/principles)]
+* Decide on pipeline's/work's velocity - scale easily work approximately proportionally to size.
 * Demand that feature unit cost doesn't increase with feature set.
 * Change easily the delivery order of features, without affecting project costs.
 
@@ -26,16 +26,21 @@ They do not take under consideration combined *costs estimation, requirements ga
 
 It feels we should know by now how to process information.
 
-It's also said that you cannot precisely calculate project size/complexity and there isn't anything like a cost per funtional unit. We failed to define the unit - some attempts:
+It's also said that you cannot precisely calculate project size/complexity and there isn't anything like a cost per functional unit. We failed to define the unit - some attempts:
 
 * [Function Point Estimation](https://en.wikipedia.org/wiki/Function_point)
 * [Use Case Points [UML based]](https://en.wikipedia.org/wiki/Use_Case_Points)
 
-Those ways of estimation does not tell you (your team) how you should implement requirements nor how to naturally make sure Business understands what was ordered. Because of that, you cannot be sure that **practical agile principles** will work at all.
+Those ways of estimation do not tell you (your team) how you should implement requirements nor how to naturally make sure Business understands what was ordered. And so Teams fail because there is too much uncertainty and we cannot construct a strict schedule.
 
-On the other side, in **Agile**, user-stories (features) should be estimated relatively with story-points, where the measuring base unit is defined by the team. Then you cannot easily compare velocities from different teams/companies/on the market. Further more, estimation is done by the Team itself; Bussiness **have to** ask for it.
+On the other side, in **Agile**, user-stories (features) should be [estimated relatively with story-points](https://www.mountaingoatsoftware.com/agile/planning-poker), where the measuring base unit is defined by the team. Then you cannot easily compare velocities from different teams/companies/on the market. Also you cannot estimate the whole project, only the next iteration. You may allocate resources for cetain time and periodicly check velocity of the Team.
 
-I dare to say, we've been wrong.
+In software-house's practice however, a min/max estimation is usually done - you might argue that it is not Agile then - fine. Very rarely a buget is allocated for the Team (Time), that **is believed** to work in such a [complex](https://en.wikipedia.org/wiki/Cynefin_framework) environment that is paid just to find a way through.
+
+If the budget is allocated, then the only way to adjust is to change the scope (feature-set).
+So, Business **no guarantee** that certain feature-set will be completed within the **budget**. (Because, indeed feature-set hadn't been defined)
+
+__I dare to say, we've been wrong.__
 
 ## The new era of information processing will relay on **understanding how people think and store/share their knowledge.**
 
@@ -45,4 +50,4 @@ In next articles You will read about:
 
 * Waterfall and Agile, how human's thinking, natural communication and knoledge play their roles in those methodologies?
 * Why we need something more than just "Agile", what there is to demand?
-* How can we estimate size of information systems? Is it possible
+* How can we estimate size of information systems? Is it possible?
