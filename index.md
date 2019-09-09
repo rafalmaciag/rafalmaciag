@@ -38,7 +38,7 @@ On the other side, in **Agile**, user-stories (features) should be [estimated re
 In software-house's practice however, a min/max estimation is usually done - you might argue that it is not Agile then - fine. Very rarely a buget is allocated for the Team (Time), that **is believed** to work in such a [complex](https://en.wikipedia.org/wiki/Cynefin_framework) environment that is paid just to find a way through.
 
 If the budget is allocated, then the only way to adjust is to change the scope (feature-set).
-So, Business **no guarantee** that certain feature-set will be completed within the **budget**. (Because, indeed feature-set hadn't been defined)
+So, Business has **no guarantee** that certain feature-set will be completed within the **budget**. (Because, indeed feature-set hadn't been defined)
 
 __I dare to say, we've been wrong.__
 
