@@ -1,7 +1,7 @@
 ---
 title: Project size/complexity/cost estimations & Agile hype (part 1)
 layout: post
-author: Rafał Maciag
+author: Rafał Maciąg
 date: 2019-09-08
 tags: #Agile #EventStorming #EventModeling #DDD
 ---
