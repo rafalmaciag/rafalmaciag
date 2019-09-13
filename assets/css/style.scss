@@ -1,0 +1,17 @@
+---
+---
+@import "{{ site.theme }}";
+
+section { 
+    width: 650px;
+}
+img {
+    padding: 10px 0px 10px 0px
+}
+
+.author_style {
+    font-style: italic; 
+    font-size: 12px; 
+    padding: 8px 0 0 0;
+    font-weight: normal;
+}
