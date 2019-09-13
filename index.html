@@ -1,0 +1,15 @@
+---
+title: Modling Evolution Blog
+layout: default
+author: Rafał Maciąg
+---
+
+  {% for post in site.posts %}
+    <div>
+      {{post.date | date: "%-d %B %Y"}}<br/>
+      <h1>
+        <a href="{{ post.url }}">{{ post.title }}</a>{{ post.excerpt }}
+      </h1>
+    </div>
+    <hr/>
+  {% endfor %}

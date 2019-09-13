@@ -1,11 +1,10 @@
 ---
 title: Project size/complexity/cost estimations & Agile hype (part 1)
 layout: post
-author: Rafał Maciąg
-date: 2019-09-08
+author: Rafal Maciag
 tags: #Agile #EventStorming #EventModeling #DDD
 ---
-![evolution](img/r-evolution.jpg)
+![evolution]({{site.baseurl}}/img/r-evolution.jpg)
 
 **Project size estimations** and then execution, are the burden for every Product Owner and Project Manager. Business always wanted to know:
 
@@ -48,6 +47,6 @@ __I dare to say, we've been wrong.__
 
 In next articles You will read about:
 
-* Waterfall and Agile, how human's thinking, natural communication and knoledge play their roles in those methodologies?
+* Waterfall and Agile, how human's thinking, natural communication and knowledge play their roles in those methodologies?
 * Why we need something more than just "Agile", what there is to demand?
 * How can we estimate size of information systems? Is it possible?
