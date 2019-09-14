@@ -2,7 +2,7 @@
 title: Project size/complexity/cost estimations & Agile hype (part 2)
 layout: post
 author: Rafal Maciag
-tags: #Agile #EventStorming #EventModeling #DDD
+tags: [Agile, EventStorming, EventModeling, DDD]
 ---
 ![abstractions]({{site.baseurl}}/img/abstractions.jpg)
 
